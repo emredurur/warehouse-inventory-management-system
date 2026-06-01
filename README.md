@@ -81,7 +81,9 @@ Recommended order:
 
 After creating the database, update the connection string in the project according to your local SQL Server configuration.
 
+## Detailed Project Report
 
+A detailed academic report of the project can be found in the `docs` folder.
 
 ## How to Run
 
